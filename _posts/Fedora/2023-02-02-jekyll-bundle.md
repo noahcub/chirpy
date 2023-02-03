@@ -1,8 +1,8 @@
 ---
 title: Web estática con Jekyll y Bundle
 date: 2023-02-02 18:00:00 +0100
-categories: [Fedora, Software]
-tags: [software]     # TAG names should always be lowercase
+categories: [Software, Fedora]
+tags: [software, programming]     # TAG names should always be lowercase
 img_path: /pictures/
 author: <noah>
 ---
